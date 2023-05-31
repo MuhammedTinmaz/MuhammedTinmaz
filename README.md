@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FULL Stack Web Developer (MERN)
 -------------------------------
 
-I am in the final stretch of my Web Developement course at the \[Digital Career Institute\](https://github.com/DigitalCareerInstitute)
+I am in the final stretch of my Web Developement course at the [Digital Career Institute](https://github.com/DigitalCareerInstitute)
 
 * 🌍  I'm based in Berlin, Germany
 
